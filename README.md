@@ -57,9 +57,10 @@ Run inference - test 1: test with a different video background; test 2: test wit
 python3 src/video_predict.py  [test number]
 ```
 
-Here is the final result when apply the model on live video: 
 
-https://user-images.githubusercontent.com/42925756/168947439-52790edd-701d-4859-9a52-4736ec0fb572.mp4
+Here is the final result when apply the model on live video: 
+https://user-images.githubusercontent.com/42925756/168947640-178fed92-d528-4fef-858d-8c2b84d69766.mp4
+
 
 For sample output result, check folder __output__
 
