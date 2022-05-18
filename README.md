@@ -57,6 +57,7 @@ Run inference - test 1: test with a different video background; test 2: test wit
 python3 src/video_predict.py  [test number]
 ```
 
+
 Here is the final result when apply the model on live video:
 
 ![output](output/demo.png)
