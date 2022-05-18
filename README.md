@@ -57,4 +57,10 @@ Run inference - test 1: test with a different video background; test 2: test wit
 python3 src/video_predict.py  [test number]
 ```
 
-Here is the final result:
+Here is the final result when apply the model on live video:
+
+Video 1:
+![pileadepressa](output/output1.mp4)
+
+Video 2:
+![rubberplant](output/output2.mp4)
