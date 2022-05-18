@@ -60,7 +60,7 @@ python3 src/video_predict.py  [test number]
 Here is the final result when apply the model on live video:
 
 Video 1:
-![pileadepressa](output/output1.mp4)
+<video src='output/output1.mp4' width=180/>
 
 Video 2:
-![rubberplant](output/output2.mp4)
+<video src='output/output2.mp4' width=180/>
