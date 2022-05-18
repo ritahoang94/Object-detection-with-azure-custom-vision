@@ -59,5 +59,4 @@ python3 src/video_predict.py  [test number]
 
 Here is the final result when apply the model on live video:
 
-
-
+![output](output/demo.png)
